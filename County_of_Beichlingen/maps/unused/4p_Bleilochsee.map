@@ -1,0 +1,17 @@
+border_size=1
+usage=map
+
+Ss          , Ww          , Chs         , Ww          , Ww^Bw/      , Ww^Bw/      , Wwr         , Wwr         , Ww          , Ww          , Ww          , Ww          , Ss          , Ww          
+Ss          , 1 Khs       , Chs         , Chs         , Ss^Vhs      , Ww          , Ww          , Wwr         , Ww          , Ww          , Ss^Vm       , Chs         , 4 Khw       , Ss          
+Ss          , Chs         , Ss^Vm       , Wwr         , Ww          , Ww          , Wo          , Wwf         , Ww          , Ww          , Wwr         , Chw         , Ch          , Ww          
+Ww^Bw\      , Ww^Bw/      , Wwf         , Wwf         , Ww          , Ww          , Wo          , Wo          , Ww          , Wwf         , Wo          , Wwr         , Ww^Vm       , Ww^Bw|      
+Ww          , Wo          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ww          , Wwf         , Ww          , Ww          , Ww          , Ww^Bw\      
+Ww          , Ww          , Ww          , Ww          , Ww^Bw|      , Wwr         , Gs^Ft       , Ww^Vm       , Wwr         , Ww          , Ww          , Ww          , Ww          , Ww          
+Wo          , Ww          , Wo          , Ww          , Chs         , Gs^Ft       , Dd^Do       , Gg^Fet      , Ggf         , Ss^Vhs      , Ss          , Ww          , Wwf         , Ww          
+Wo          , Wwf         , Ww          , Ww^Vm       , Wwr         , Gg^Ve       , Gs^Ft       , Gg^Ve       , Wwr^Bw\     , Chs         , Ww          , Wwr         , Wo          , Wo          
+Wo          , Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ss          , Ww          , Ww          , Ww          , Wo          
+Ww          , Ww          , Ww          , Wwf         , Ww          , Ww          , Ww          , Wwr         , Wwf         , Wwf         , Ww          , Ww          , Wo          , Ww          
+Ww^Bw/      , Ss^Vhs      , Wwr         , Wwr         , Wo          , Wwr         , Wo          , Wo          , Wwr         , Ww          , Wwf         , Wwr         , Ww          , Ww          
+Chs         , Chs         , Ch          , Ww          , Ww          , Ww          , Wwf         , Ww          , Ww          , Ww          , Ss^Vhs      , Ww^Vm       , Chs         , Wo          
+Chs         , 2 Khw       , Chw         , Ss^Vm       , Ww^Bw\      , Ww          , Wo          , Wwr         , Ww          , Ww          , Chw         , Chs         , 3 Khw       , Wo          
+Ww          , Chw         , Ww          , Ww          , Ww^Bw|      , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ss          , Ss          , Ss          
