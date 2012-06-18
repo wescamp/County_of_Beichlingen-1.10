@@ -1,0 +1,10 @@
+# TODO Easy, Normal, Hard difficulty.
+# 			Easy: Very long turnlimits.
+# 			Normal: challenging turnlimits, sometimes fog
+# 			Hard: turnlimits, more fog and often shroud
+#				Perhaps difference in campaign start gold.
+
+# TODO statistics - count victories and defeats, units recruited, units lost, units destroyed, level ups
+#			DONE variable Info[1].defeats/victories created, they get counted
+#			DONE in Niderdorla, if you go home when Helene asks the player, it is not counted as victory
+#			DONE in Beichlinge you have a "statistic"-moveto-event in the keep, it shows victories, defeats and victory-ratio

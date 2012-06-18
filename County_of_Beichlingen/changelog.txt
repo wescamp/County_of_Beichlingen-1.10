@@ -1,0 +1,35 @@
+Version: x.y.z
+Date: YYYY-MM-DD
+	Bugfixes:
+		- ...
+	Changes:
+		- ...
+	Additions:
+		- ...
+
+-------------------------------------------------
+
+Version: 0.6.2
+Date: 2012-06-17
+	Bugfixes:
+		- minor spelling errors fixed
+		- deleted unnecessary utils/menu-item.cfg,utils/variables.cfg and utils/defeat_and_victory.cfg
+		- converted spaces to underscores in filenames in units/ for translation 
+		- added "#textdomain wesnoth-County_of_Beichlingen" in every file
+	Additions:
+		- added a simple statistic. Victories and defeats are counted, in the main keep of Beichlingen you can get the info how many battles you won and lost and how the ratio of victories is
+
+-------------------------------------------------
+
+Version: 0.6.1 
+Date: 2012.06.07
+	Bugfixes:
+	Changes:
+		- made the campaign translatable - added "#textdomain wesnoth-County_of_Beichlingen" in all files with strings, the [textdomain] tag in _main.cfg and eliminated empty strings
+	Additions:
+
+-------------------------------------------------
+
+Version: 0.6.0
+Date: 2012.06.06
+- last version before introduction of this log
