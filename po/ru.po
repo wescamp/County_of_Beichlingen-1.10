@@ -1,0 +1,1988 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-06-24 04:26-0400\n"
+"PO-Revision-Date: 2012-06-24 04:26-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:21
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:20
+#: County_of_Beichlingen/scenarios/003_Oberhof_01_initial.cfg:20
+msgid ""
+"The Echsenloch-cave is under your control, however in caves there are always "
+"menacing creatures you can slay for practice."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:23
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:22
+msgid "Yes, sharpen your swords, we will exterminate some monsters!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:27
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:26
+msgid "I don't like the smell of the caves."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:38
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:39
+#: County_of_Beichlingen/scenarios/003_Oberhof_01_initial.cfg:35
+msgid ""
+"The Echsenloch-cave has not yet been reclaimed by the crown. Nobody knows "
+"what you will find there."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:40
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:57
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:61
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:41
+#: County_of_Beichlingen/scenarios/003_Oberhof_01_initial.cfg:37
+msgid "I will go there in force."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:44
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:61
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:65
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:45
+#: County_of_Beichlingen/scenarios/003_Oberhof_01_initial.cfg:41
+msgid "I wont engage the enemy now."
+msgstr ""
+
+#. [scenario]: id=<id>
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:55
+msgid "<name>"
+msgstr ""
+
+#. [message]: speaker=_ narrator
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:81
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:98
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:27
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:23
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:103
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:21
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:21
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:23
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:84
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:253
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:373
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:141
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:111
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:31
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:91
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:23
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:25
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:101
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:87
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:23
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:90
+#: County_of_Beichlingen/utils/random_enemy_scenario.cfg:75
+msgid "Time is up!"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Yugur
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:108
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:113
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:117
+msgid "Yugur"
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:119
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:138
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:62
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:157
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:80
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:61
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:79
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:148
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:304
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:416
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:203
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:179
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:164
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:102
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:114
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:188
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:139
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:79
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:147
+#: County_of_Beichlingen/utils/random_enemy_scenario.cfg:154
+msgid "Defeat enemy leaders."
+msgstr ""
+
+#. [objective]: condition=lose
+#: County_of_Beichlingen/_ScenarioTemplate.cfg:123
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:142
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:63
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:66
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:161
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:84
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:65
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:83
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:152
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:308
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:420
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:56
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:207
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:183
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:168
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:196
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:143
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:83
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:151
+msgid "Death of Helene, Thietmar."
+msgstr ""
+
+#. [campaign]: id=CAMPAIGN_County_of_Beichlingen
+#: County_of_Beichlingen/_main.cfg:21
+msgid "County of Beichlingen"
+msgstr ""
+
+#. [campaign]: id=CAMPAIGN_County_of_Beichlingen
+#: County_of_Beichlingen/_main.cfg:23
+msgid "COB"
+msgstr ""
+
+#. [campaign]: id=CAMPAIGN_County_of_Beichlingen
+#: County_of_Beichlingen/_main.cfg:28
+msgid ""
+"The noble siblings Helene and Thietmar are appointed by the king of Wesnoth "
+"to be Countess and Count of Beichlingen, a region south of the Dulatus "
+"Hills. It is a fertile and rich province, but there is just one catch: The "
+"region does not yet belong to the kingdom of Wesnoth ..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:19
+msgid ""
+"The township Suhl is currently under your control, however the peasants "
+"complain about outlaws."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:21
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:21
+msgid "I will send a patrol to deal with this scum!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:25
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:29
+msgid "Those villagers just make excuses so they don't have to pay more taxes."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:28
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:47
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:64
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:32
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:51
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:68
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:29
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:48
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:33
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:55
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:30
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:51
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:30
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:51
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:30
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:51
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:30
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:51
+msgid "Fight on this map against a random enemy."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:38
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:42
+msgid ""
+"The township Suhl is currently occupied by the dark forces of the Lich "
+"Mal'Alafar and his bride the infamous Cruel Elsbeth."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:40
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:44
+msgid "Let's send these sinners against nature to hell where they belong."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:44
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:48
+msgid ""
+"We shouldn't mess with such evil - let's just put up a warning sign and go "
+"home for a cup of hot chocolate."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:55
+msgid ""
+"The township Suhl has not yet been reclaimed by the crown. Nobody knows what "
+"you will find there."
+msgstr ""
+
+#. [scenario]: id=000_Suhl_00_a_random_enemy
+#. [scenario]: id=001_Zella_00_a_random_enemy
+#. [scenario]: id=002_Echsenloch_00_a_random_enemy
+#. [scenario]: id=005_Reihersberg_00_a_random_enemy
+#. [scenario]: id=006_Hainich_00_a_random_enemy
+#. [scenario]: id=007_Niederdorla_00_a_random_enemy
+#. [scenario]: id=008_Feengrotte_00_a_random_enemy
+#. [scenario]: id=009_Drachenhoehle_00_a_random_enemy
+#. [scenario]: id=011_Windknollen_00_a_random_enemy
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:74
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:78
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:58
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:56
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:65
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:61
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:61
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:61
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:61
+msgid "Random enemy"
+msgstr ""
+
+#. [scenario]: id=000_Suhl_01_initial_Orks
+#. [scenario]: id=000_Suhl_02_Rebelpatrol
+#. [scenario]: id=000_Suhl_03_Lich_MalAlafar
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:81
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:4
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:4
+msgid "Suhl"
+msgstr ""
+
+#. [side]: type=Orcish Slayer, id=Sovt
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:127
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:130
+msgid "Sovt"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:161
+msgid "Take this, dirty orc! ... Ha, he had gold hidden in his socks."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:189
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:225
+msgid ""
+"Every side gets 100 gold, however the other orc has called in reinforcements."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_01_initial_Orks.cfg:198
+msgid "Yes, one less! ... Oh, there is some gold here!"
+msgstr ""
+
+#. [objectives]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:53
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:46
+msgid "The Countess and Count send a patrol to fight outlaws in this region."
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:55
+msgid "Reach the signpost in the northeast with one of the leaders."
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:59
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:52
+msgid "Bonus: Kill 20 enemies."
+msgstr ""
+
+#. [objectives]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:66
+msgid "After turn 1 you won't be able to recruit, so chose your patrol wisely."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:73
+msgid "You can not recruit anymore."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:73
+msgid "Niemand"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:82
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:137
+msgid "I hear movement in the undergrowth."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:107
+msgid ""
+"I'm not sure we got them all. However, the subjects here can pay us more "
+"taxes now. (You recieve 50 gold.)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:110
+msgid ""
+"We killed enough of those bastards to raise a unique tax. (You recieve 20 "
+"gold.)"
+msgstr ""
+
+#. [then]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:126
+msgid "Fuck!"
+msgstr ""
+
+#. [then]
+#: County_of_Beichlingen/scenarios/000_Suhl_02_Rebelpatrol.cfg:213
+msgid ""
+"They appear seemingly out of nowhere, they must have hideaways all of the "
+"region."
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=MalAlafar
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:37
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:35
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:290
+msgid "Mal'Alafar"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, id=Elsbeth
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:51
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:49
+msgid "Cruel Elsbeth"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:85
+msgid "Ha, I'm immortal, I will see you again! (You get 100 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/000_Suhl_03_Lich_MalAlafar.cfg:95
+msgid ""
+"Stupid halfbreeds, don't think you destroyed me ... my master will bring me "
+"back to life! (You get 50 gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:19
+msgid ""
+"The township Zella is under your control, but it is menaced by the notorious "
+"bandits Cold Heiner and Blue Hanna."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:25
+msgid "Let's do a maneuver in this township, it will be a good exercise."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:59
+msgid ""
+"The township Suhl has not yet been claimed by the crown. Nobody knows what "
+"you will find there."
+msgstr ""
+
+#. [scenario]: id=001_Zella_01_initial_Orks
+#. [scenario]: id=001_Zella_02_Rebelpatrol
+#. [scenario]: id=001_Zella_03_Lich_MalAlafar
+#. [scenario]: id=001_Zella_04_Maneuver, id=Helene 27 5}
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:86
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:4
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:4
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:4
+msgid "Zella"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:182
+msgid ""
+"Take this, dirty orc! ... Ha, he had gold hidden in his socks. (You get 100 "
+"gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:193
+msgid "Yes, one less! ... Oh, there is some gold here! (You get 50 gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:197
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:329
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:170
+msgid "Because $second_unit.name did it, you recieve 20 gold extra."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:211
+msgid ""
+"There, one less! ... So, Helene is your name? I am Laurin, lord of the Zella-"
+"cave dwarves. I have to admit, you are the most graceful young Lady I have "
+"ever seen - I would invite you to a bowl of musroom-soup, but there is no "
+"time for that! Trolls have invaded this cave! I see you are a healer, please "
+"help us! ... What, you are lost? Well, don't be ashamed, that happens to "
+"most surface-dwellers who come down here. I would show you the way back up, "
+"but I can't leave this battle."
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:215
+msgid "Defeat the troll leader Guerk."
+msgstr ""
+
+#. [objective]: condition=lose
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:219
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:363
+msgid "Death of Helene."
+msgstr ""
+
+#. [message]: speaker=Laurin
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:232
+msgid ""
+"Finally we got rid of these stinking Trolls. Helene, my dear, you are the "
+"woman of my dreams - mesmerizingly beautiful but a tough fighter and very "
+"smart. May I be your campanion?"
+msgstr ""
+
+#. [option]: speaker=Laurin
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:234
+msgid ""
+"Sure, why not. (Laurin, able to recruit dwarves, will follow you through all "
+"Townships as long as he does not get killed, also he brings 50 gold with "
+"him. The other units from the cave will go directly to your recalllist so "
+"you will have to recall them again to use them against the surface orcs.)"
+msgstr ""
+
+#. [option]: speaker=Laurin
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:288
+msgid ""
+"Sorry, I want a whole man, not just half of one. (You get 200 gold and all "
+"the units in the cave will go to the surface directly so you can use them "
+"against the surface orcs immediatley - however, Laurin will stay in this "
+"township.)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:308
+msgid ""
+"Laurin shows Helene the next exit, as they emerge from the cave they find "
+"the battle against the orcs is still raging."
+msgstr ""
+
+#. [then]: (id=Helene) 29 10}, id=Laurin, (id=feindtroll)}, id=Guerk
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:355
+msgid ""
+"As this cave entrance is discovered, Helene is eager to inspect it. But "
+"because the battle doesn't allow any fighter to be spared, she wents in "
+"there alone. (Inside the cave Helene will be on another side, but YOU can "
+"control that side too!)"
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:359
+msgid "Defeat the troll whelp."
+msgstr ""
+
+#. [then]: (id=Helene) 29 10}, id=Laurin, (id=feindtroll)}, id=Guerk
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:390
+msgid ""
+"Oh, it is very dark in here ... and I think I forgot the way I came in, yeah "
+"I'm lost. Damn my curiosity ... uh, there is someone ahead."
+msgstr ""
+
+#. [then]: (id=Helene) 29 10}, id=Laurin, (id=feindtroll)}, id=Guerk
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:393
+msgid "Laurin"
+msgstr ""
+
+#. [then]: (id=Helene) 29 10}, id=Laurin, (id=feindtroll)}, id=Guerk
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:404
+msgid "Guerk"
+msgstr ""
+
+#. [then]: (id=Helene) 29 10}, id=Laurin, (id=feindtroll)}, id=Guerk
+#: County_of_Beichlingen/scenarios/001_Zella_01_initial_Orks.cfg:407
+msgid ""
+"Oh, hello there beautiful surface-woman! Let me just kill this Troll, then "
+"we can talk."
+msgstr ""
+
+#. [side]: type=Outlaw, id=Cold Heiner
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:35
+msgid "Cold Heiner"
+msgstr ""
+
+#. [side]: type=Rogue, id=Blue Hanna
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:49
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:134
+msgid "Blue Hanna"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:60
+msgid ""
+"Just as you wan't to administer the final blow, Cold Heiner sends his dogs "
+"to attack you and uses the confusion to escape. But you find 100 gold in his "
+"treasures."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_02_Rebelpatrol.cfg:70
+msgid ""
+"Blue Hanna distracts your fighters by suddenly exposing herself, than she "
+"throws some smoke and runs off in the woods. But you find 50 gold."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:84
+msgid "Ha, I'm immortal, I will see you again! (every side gets 100 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_03_Lich_MalAlafar.cfg:94
+msgid ""
+"Stupid halfbreeds, don't think you destroyed me ... my master will bring me "
+"back to life! (every side gets 50 gold)"
+msgstr ""
+
+#. [side]: type=Merman Triton, id=Jagor
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:37
+msgid "Jagor"
+msgstr ""
+
+#. [side]: type=Elvish High Lord, id=Elogwar
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:54
+msgid "Elogwar"
+msgstr ""
+
+#. [side]: type=Royal Warrior, id=Kuno
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:67
+msgid "Kuno"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:106
+msgid "You defeated me, but I got one last surprise! (every side gets 50 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:144
+msgid ""
+"That was an honorable fight, I'm looking forward to another one! (every side "
+"gets 50 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/001_Zella_04_Maneuver.cfg:156
+msgid "Well, I guess I must admit defeat!  (every side gets 50 gold)"
+msgstr ""
+
+#. [scenario]: id=002_Echsenloch_01_a_Dwarves
+#. [scenario]: id=002_Echsenloch_01_b_Dwarves
+#. [scenario]: id=002_Echsenloch_01_initial, id=Helene 16 1}
+#. [scenario]: id=002_Echsenloch_02_monsters
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:65
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:221
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:341
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:4
+msgid "Echsenloch"
+msgstr ""
+
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:90
+msgid ""
+"As the wesnothian army readies to leave after the victory, two old dwarves "
+"show up and challenge Helene and Thietmar to bilateral battles."
+msgstr ""
+
+#. [option]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:92
+msgid "If they want it, they can have it."
+msgstr ""
+
+#. [option]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:98
+msgid ""
+"Nobody is interested in those dark caves anyway. Let's seal the entrace and "
+"go home."
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, id=Hagal
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:111
+msgid "Hagal"
+msgstr ""
+
+#. [side]: type=Troll, id=Gronk
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:124
+msgid "Gronk"
+msgstr ""
+
+#. [side]: type=Necrophage, id=Alpa
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:137
+msgid "Alpa"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:175
+msgid "I curse you and all you children with ... argh! (You get 100 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:184
+msgid "Take this! (You get 100 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:193
+msgid "Ooooooouuuhggehhhhggggg!!!! (You get 100 gold)"
+msgstr ""
+
+#. [scenario]: id=002_Echsenloch_01_a_Dwarves
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:273
+msgid "Meanwhile Helene has an adventure of her own ..."
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=Fenrich
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:293
+msgid "Fenrich"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:323
+msgid "Well done, young man, well done! (Thietmar gets 50 gold)"
+msgstr ""
+
+#. [scenario]: id=002_Echsenloch_01_b_Dwarves
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:393
+msgid "Finally Helene and Thietmar find their way back to the surface."
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=Huberth
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:405
+msgid "Huberth"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:435
+msgid ""
+"A fortuneteller once told me I would be killed by a woman ... I always "
+"thought she meant my wife."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_01_initial.cfg:436
+msgid ""
+"There is a scroll in the belongings of that dwarve - it says:  <span font-"
+"style='italic'>Password for the the bridge to the treasure chest:  "
+"chanterelle</span> "
+msgstr ""
+
+#. [message]: speaker=Helene
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:26
+msgid "We made it!"
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:48
+msgid "Hold out for 20 turns."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:84
+msgid "Yak, that is disgusting!"
+msgstr ""
+
+#. [then]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:95
+msgid "Squuuiickk!"
+msgstr ""
+
+#. [then]
+#: County_of_Beichlingen/scenarios/002_Echsenloch_02_monsters.cfg:206
+msgid ""
+"By god! Those monsters crawl out of the darkest corners of this cave ... and "
+"unholy things rise from those bottomless chasms."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:23
+msgid ""
+"Elaborate magic allows you to train your troops against any enemy you want "
+"on a random setting. However, since the frontier is merciless to the weak "
+"your training regiment follows the rule 'Fight as you train, train as you "
+"fight.' Meaning the combat is brutally real."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:25
+msgid "Attention, the training begins at sunrise!"
+msgstr ""
+
+#. [message]
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:28
+msgid ""
+"Choose the setting and number of enemies. You will be able to configure each "
+"enemy."
+msgstr ""
+
+#. [message]
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:29
+msgid "Temperate Climate"
+msgstr ""
+
+#. [message]
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:30
+msgid "Desert (not supported yet!)"
+msgstr ""
+
+#. [message]
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:31
+msgid "Cave (not supported yet!)"
+msgstr ""
+
+#. [text_input]
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:33
+msgid "Number of enemies (1-3): "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:43
+msgid "Choose enemy $($index-1)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:44
+msgid "Orcs"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:45
+msgid "Undead"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:46
+msgid "Elves"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:47
+msgid "Wesnoth"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:48
+msgid "Outlaws"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:49
+msgid "Dwarves"
+msgstr ""
+
+#. [text_input]
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:52
+msgid "The amount of gold your enemy starts with."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:68
+msgid "My soldiers are invincible anyway, let's do a party instead."
+msgstr ""
+
+#. [message]: speaker=Margarete
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:147
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:107
+msgid "We did it!"
+msgstr ""
+
+#. [scenario]: id=004_TrainingGround_01
+#. [scenario]: id=004_TrainingGround_02
+#. [scenario]: id=004_TrainingGround_03
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:308
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:315
+#: County_of_Beichlingen/scenarios/004_training_ground_01.cfg:322
+msgid "Training Ground"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:20
+msgid ""
+"Currently the mysterious evil force is contained within the Reihersberg. We "
+"need a scholar of the black magic to help us break the barrier blocking the "
+"way into the caves."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:22
+msgid ""
+"We have such an expert now, let's go and clear the mountain. UNFINISHED "
+"SCENARIO! (first part is playable)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:26
+msgid "The are more pressing concerns to deal with."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:41
+msgid ""
+"Strange rumors are told about the Reihersberg ... as your army marches "
+"toward it, you meet many scared peasants running the opposite way, warning "
+"you not to go there ... spreading fear and superstition among your troops "
+"with stories about ghosts, wandering corpses and other horrors lurking in "
+"the everlasting darkness of the mysterious mountain called Reihersberg."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:43
+msgid ""
+"Obviously dark magic is at work here - we have to stop it before it becomes "
+"a threat to the whole county."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:47
+msgid ""
+"We should listen to the warnings, there are many other, more friendly places "
+"to conquer anyway."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:74
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:81
+msgid "Raedaebel"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:76
+msgid ""
+"This township is named after the mighty mountain 'Reihersberg', because not "
+"only does this three mile high rock dominate the landscape but it is also "
+"the base of wealth for the people. You see, the mountain is rich with ores, "
+"minerals and gemstones - for centuries the dwarves mined and the humans "
+"traded the treasures of the Reihersberg giving both races a good living. But "
+"there is more to it - the Reihersberg has always been a magical place too! "
+"Many strange things have been witnessed here, like odd creatures and arcane "
+"phenomena that even the oldest magi don't understand. \n"
+"The most mysterious is the constant regeneration of the mountain itself. The "
+"dwarves have mined the rocks since the beginning of known history, they "
+"drilled countless tunnels and shafts, but once they abandon them the stones "
+"start to grow back and after a wile the rock that had been hacked and blown "
+"away is as massive as ever before. Also there are many caves that appear to "
+"be natural, but they change their shape and location. One day there is a "
+"cavern with a clear underground lake, the next day it is filled with hot "
+"lava or a bottomless chasm took it's place, if you fall asleep you may even "
+"find yourself walled in when you wake up. Yes, it is as if the mountain is "
+"alive, breathing and growing. Beware the mysteries of this ancient peak."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:83
+msgid ""
+"Lately there has been more and darker magic activity than ever before. A "
+"constant darkness has fallen over the land and a foul mist streams out of "
+"the depths containing dreadful sounds and evil creatures. The water from the "
+"mountain springs, once fresh and crystal clear, has become green and turbid. "
+"A magic barrier has blocked every tunnel into the mountain just a few feet "
+"in, cutting the dwarves off from the surface - no one has seen any of them "
+"for months, it is unclear if they are even still alive. The human villages "
+"have been menaced by ghosts, pestilence and all sorts of sorrow. Even we "
+"trees suffer from the lack of sunlight ... this land is dying. Is it because "
+"the Reihersberg has fallen ill or is the mountain finally sick of all the "
+"mining and wants to stop it forever? Or is some evil force behind it?"
+msgstr ""
+
+#. [scenario]: id=005_Reihersberg_01_initial
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:89
+msgid "The haunting of Reihersberg"
+msgstr ""
+
+#. [message]: speaker=Helene
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:117
+msgid ""
+"I feel the magic that causes this calamity is of a dark, cold nature ... I "
+"can not lift this curse, nor do I want to be able to do it since it would "
+"mean giving up my spirit. Some form of evil is infesting the depths of this "
+"ancient mountain, protecting itself with a magical barrier. Destroying the "
+"guardians on the outside is all we  should do! I recommend leaving a force "
+"to deal with creatures coming out of the Reihersberg so the evil force is "
+"contained, but don't attempt to break in. Anyway, to break the barrier we "
+"would need a scholar of the black magic like a Dark Adept. (No kidding: If "
+"you don't have at least a Dark Adept or higher, you won't be able to win the "
+"following scenario. Go find one and return to the township.)"
+msgstr ""
+
+#. [option]: speaker=Helene
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:119
+msgid ""
+"UNFINISHED SCENARIO! (first part is playable) We have such a scholar with us "
+"and we want the Reihersberg resources - let's go in! "
+msgstr ""
+
+#. [option]: speaker=Helene
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:125
+msgid "Helene is right, we should not mess with black magic."
+msgstr ""
+
+#. [side]: type=Shadow, id=Old Hugbert
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:154
+msgid "Old Hugbert"
+msgstr ""
+
+#. [side]: type=Wraith, id=Moaning Frieda
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:168
+msgid "Moaning Frieda"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:214
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:262
+msgid "Ablatum dividere conditia est!"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:252
+msgid ""
+"Every side gets 100 gold, however before vanishing the shadow has cast a "
+"spell to call in reinforcements."
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:300
+msgid ""
+"Every side gets 100 gold, however before vanishing the Wraith has cast a "
+"spell to call in reinforcements."
+msgstr ""
+
+#. [unit]: type=Elvish Sharpshooter, id=Danatalia
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:313
+msgid "Danatalia"
+msgstr ""
+
+#. [unit]: type=Silver Mage, id=Tranatia
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:324
+msgid "Tranatia"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:333
+msgid ""
+"We are Danatalia and Tranatia, we moved to this little house at the "
+"Reihersberg-hillsides to take in the positive vibes that come from the "
+"mountain - and to live together without harassment or prejudice. We grieve "
+"for the Reihersberg, it has been infested by evil - we want ot help you "
+"destroy it. However, only one of us can go, because someone has to do the "
+"dishes."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:335
+msgid "Please Danatalia, join us, we can use your skills with the bow."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_01_initial.cfg:343
+msgid "Tranatia, your abilities as silver mage will certainly be useful."
+msgstr ""
+
+#. [scenario]: id=005_Reihersberg_02_BreakIn
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:4
+msgid "Breaking the Reihersberg barrier"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:23
+msgid ""
+"Bring an unit of the type Dark Adept (or of higher level) to the main "
+"entrance of the cavesystem."
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:65
+msgid "Find a way pass the magic barrier into the mountain."
+msgstr ""
+
+#. [objective]: condition=lose
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:69
+msgid "Death of Helene or Thietmar."
+msgstr ""
+
+#. [objective]: condition=lose
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:73
+msgid "Turns run out."
+msgstr ""
+
+#. [message]: speaker=unit
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:118
+msgid ""
+"I can feel powerful dark magic - it will take a while to study it. I will "
+"retreat to the mountains during this time. (This unit will return after 10 "
+"turns with a way into the Reihersberg!)"
+msgstr ""
+
+#. [message]: speaker=$darkAdept.id
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:153
+msgid ""
+"Posteribus con sine gallones. ... There, as soon as I step on this rune, I "
+"and everybody in our castle will be teleported past the barrier into the "
+"caves."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:158
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:183
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:200
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:212
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:248
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:267
+msgid "Players info:"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/005_Reihersberg_02_BreakIn.cfg:159
+msgid ""
+"Sorry, this scenario is unfinished! You will win this scenario now. Check "
+"for updates of this campaign if you are interested how this one will turn "
+"out."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:20
+msgid ""
+"Lady Kamella manages this township, but she can not deal with all problems "
+"by herself."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:22
+msgid ""
+"Lady Kamella calls for your help because drakes have invaded the Hainich!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:26
+msgid ""
+"Angry elves have taken up arms and rebel against you and your reeve Kamella."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:30
+msgid "Everything will turn out fine, we don't need to go there."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:46
+msgid ""
+"Vast, dense forests cover the whole township called Hainich. It is said the "
+"elvish kingdom of Firola is located here."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:48
+msgid ""
+"There is only one king, the king of Wesnoth! All beings in this forest are "
+"his subjects too, so there is no kingdom called Firola."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:52
+msgid "We respect the elvish traditions and won't destroy their small Reich."
+msgstr ""
+
+#. [scenario]: id=006_Hainich_01_initial_elves, (id=Helene) 4 26})} # KL_PRELOAD XY CODE -> with XY being the location around that the leaders of side 1 will be grouped
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:72
+msgid "The last days of Firola."
+msgstr ""
+
+#. [message]: speaker=Helene
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:97
+msgid ""
+"Listen up you meager elves, I am your new mistress! I will leave you alone "
+"as long as you pay tribute and follow orders ... but if anyone makes fun of "
+"my heritage, he or she will lose their ears."
+msgstr ""
+
+#. [side]: type=Elvish High Lord, id=Fuumu
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:124
+msgid "Fuumu"
+msgstr ""
+
+#. [side]: type=Elvish Lady, id=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:138
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:62
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:74
+msgid "Kamella II."
+msgstr ""
+
+#. [side]: type=Elder Wose, id=Tropblatt
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:152
+msgid "Tropblatt"
+msgstr ""
+
+#. [message]: speaker=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:190
+msgid ""
+"What is this? Two halfbreeds thinking they can invade our realm? Ha, you "
+"better go home before you hurt yourself."
+msgstr ""
+
+#. [message]: speaker=Fuumu
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:201
+msgid ""
+"Don't think this is over, my elves will resist you even without me to lead "
+"them! (You find 100 gold in his keep, however several veteran units from "
+"Fuumus reserve force have entered the forest.)"
+msgstr ""
+
+#. [message]: speaker=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:221
+msgid ""
+"Stop! No more killing! I surrender myself and my people to your mercy! Also "
+"my treasure of 100 gold!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:225
+msgid ""
+"Kamella II. orders all her units to pledge allegiance to Helene. Helene "
+"accepts her surrender and decides to make her the reeve of the Hainich "
+"township, managing everything while the siblings are not there. As her first "
+"act, Kamella retreats deeper into the forest to tell all inhabitants of "
+"their new rulers."
+msgstr ""
+
+#. [message]: speaker=Tropblatt
+#: County_of_Beichlingen/scenarios/006_Hainich_01_initial_elves.cfg:250
+msgid ""
+"If you use my wood to cook yourself a soup, I will rise from the grave to "
+"smash you! (While you found 50 gold in the roots of Tropblatt, you didn't "
+"took his warning serious and burned him to cook dinner - but suddenly an "
+"ancient wose appears and attacks you!)"
+msgstr ""
+
+#. [scenario]: id=006_Hainich_02_Drakes
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:4
+msgid "Winged Invasion"
+msgstr ""
+
+#. [message]: speaker=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:29
+msgid "Thanks for saving our trees from those fire breathing monsters!"
+msgstr ""
+
+#. [side]: type=Inferno Drake, id=Mah Tahsor
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:76
+msgid "Mah Tahsor"
+msgstr ""
+
+#. [side]: type=Drake Blademaster, id=Tul Ibilor
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:90
+msgid "Tul Ibilor"
+msgstr ""
+
+#. [objective]: condition=lose
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:106
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:118
+msgid "Death of Helene, Thietmar, Kamella"
+msgstr ""
+
+#. [message]: speaker=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:128
+msgid ""
+"Thank the spirits you are back my Lady! Our forest is threatened by dragons. "
+"Two of them have already set up nests nearby, but there is also a constant "
+"flow of drakes coming in from the south."
+msgstr ""
+
+#. [message]: speaker=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:139
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:250
+msgid "Noooooo! Mistress Helene, why couldn't you protect me?!"
+msgstr ""
+
+#. [message]: speaker=Mah Tahsor
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:153
+msgid ""
+"Kraahhhhhhhhhh! Roaar! (You find 150 gold in his keep! You give 50 of these "
+"to Kamella.)"
+msgstr ""
+
+#. [message]: speaker=Tul Ibilor
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:167
+msgid "GRRRRRRRRRR! (Another 100 gold for you and 50 for Kamella.)"
+msgstr ""
+
+#. [event]: id=Mah Jogur, (id=Mah Jogur) 28 31}
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:177
+msgid "Mah Jogur"
+msgstr ""
+
+#. [message]: speaker=Mah Jogur
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:182
+msgid "ROOOOOOOOAAAAAAAAAARRRRRRRRRRRR! You will burn alive, elvish scum!"
+msgstr ""
+
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/006_Hainich_02_Drakes.cfg:194
+msgid "Yes! Die you monster! (in the nest of the dragon you find 200 gold!)"
+msgstr ""
+
+#. [scenario]: id=006_Hainich_03_Insurrection
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:6
+msgid "Elvish Insurrection"
+msgstr ""
+
+#. [message]: speaker=Helene
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:31
+msgid "Good, the Hainich is in our hands again."
+msgstr ""
+
+#. [unit]: type=Elvish Sylph, id=Tula
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:59
+msgid "Tula"
+msgstr ""
+
+#. [side]: type=Elder Wose, id=Tropblatts sprout
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:88
+msgid "Tropblatts sprout"
+msgstr ""
+
+#. [side]: type=Elvish High Lord, id=Marawal
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:102
+msgid "Marawal"
+msgstr ""
+
+#. [message]: speaker=Kamella II.
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:144
+msgid ""
+"I am so ashamed my Lady ... some of my people have broken their oath of "
+"loyalty. But I asure you, I am your devoted servant! Let me help you kill "
+"those traitors."
+msgstr ""
+
+#. [message]: speaker=Tula
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:155
+msgid ""
+"There will be others ... my sisters for example! (There are 100 gold for you "
+"and Kamella in her treasure chests, but two of Tulas sisters - Tola and Tela "
+"- have entered the field of battle together with their armies.)"
+msgstr ""
+
+#. [message]: speaker=Tola
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:209
+msgid ""
+"Hakum ad noctem quim! (You find 100 gold for you and 50 for Kamella, however "
+"in her last breath Tola casts a spell that causes a thick fog to engulf the "
+"land.)"
+msgstr ""
+
+#. [message]: speaker=Tela
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:233
+msgid ""
+"Ego sumum dragonis est! (You find 100 gold for you and 50 for Kamella, but "
+"Tela summons a dragon.)"
+msgstr ""
+
+#. [message]: speaker=Tropblatts sprout
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:264
+msgid ""
+"My death only causes more woses to fight you! (You find 100 gold for you and "
+"50 for Kamella, but throughout the wood several woses know decide to fight "
+"you.)"
+msgstr ""
+
+#. [message]: speaker=Marawal
+#: County_of_Beichlingen/scenarios/006_Hainich_03_Insurrection.cfg:283
+msgid ""
+"You may crush me, but you will never crush the idea of freedom! (In his keep "
+"you find 50 gold for you and 50 for Kamella, however his death inspired some "
+"elves to join the rebellion and they lurk for you now in the underbrush.)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:21
+msgid "Niederdorla ..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:23
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:23
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:23
+#: County_of_Beichlingen/scenarios/010_Kings_Quest.cfg:38
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:23
+msgid "..."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:27
+msgid "There is nothing of interest in these swamps."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:42
+msgid ""
+"One day Helene and Thietmar make camp with their army on an open field. "
+"During dinner a black crow lands on the table, it shrieks and drops a "
+"letter, then flies off into the air where it starts circling the camp. The "
+"letter is written on a dirty cotton rag and the writing is very haisty: "
+"<span font-style='italic'>I'm being held by Hochmeister Gutberg - if anyone "
+"of noble spirit finds this, follow the crow to the swamps of Niederdorla and "
+"please rescue me! Margarete</span> "
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:44
+msgid "If a damsel is in distress, then honor demands we help her."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:48
+msgid ""
+"It's more likely that this is trap to lure idiots into the swamps to rob "
+"them."
+msgstr ""
+
+#. [scenario]: id=007_Niederdorla_01_initial
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:69
+msgid "The charme of Margarete"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:85
+msgid ""
+"Upon entering the swamp of Niederdorla, Helene and Thietmar realize that the "
+"entire region is totally useless land that has nothing to offer. Also they "
+"find themselves in the crossfire of a battle between quite different "
+"factions. Retreat would seem to be the most reasonable course of action. Why "
+"waiste resources on a swamp when there are rich, fertile lands still to be "
+"conquered? The only thing keeping them from turning around on the spot is "
+"the call for help from the mysterious Margarete."
+msgstr ""
+
+#. [message]: speaker=Kunbert
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:89
+msgid ""
+"Give Margarete to me you dirty old geezer! I bought her from her stepmother, "
+"she is mine!"
+msgstr ""
+
+#. [message]: speaker=Gutberg
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:93
+msgid ""
+"Get out of here kid, before you make a fool out of yourself! You couldn't "
+"handle a girl like that anyway, she needs a strong hand!"
+msgstr ""
+
+#. [side]: type=Elder Mage, id=Gutberg
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:148
+msgid "Hochmeister Johann Gutberg"
+msgstr ""
+
+#. [side]: type=Saurian Oracle, id=Sss Uuu
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:162
+msgid "Sss Uuu"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, id=Kunbert
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:177
+msgid "Kunbert der Graue"
+msgstr ""
+
+#. [objective]: condition=win
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:192
+msgid "Lead Thietmar to the imprisoned dark sorceress"
+msgstr ""
+
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:215
+msgid ""
+"Helene, I went out into to swamp with a scouting party and we found that "
+"Margarete is a young Dark Sorceress, suffering in a cage dangling from the "
+"castle wall because she refuses to marry Hochmeister Gutberg, a mage who is "
+"over 300 years old ... We have to rescue her from him, because of honor and "
+"because she is really ... hm ..."
+msgstr ""
+
+#. [message]: speaker=Helene
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:219
+msgid ""
+"I believe 'hot' is the term you are looking for? Ah, you men are all alike, "
+"you see a nice skirt and suddenly you can't think straight."
+msgstr ""
+
+#. [option]: speaker=Helene
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:221
+msgid ""
+"But ok, we stay and save her, after all - if that disgusting old creep would "
+"want to marry me, I would dream of a white knight that springs to my rescue "
+"too."
+msgstr ""
+
+#. [option]: speaker=Helene
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:224
+msgid ""
+"Listen to me brother, the swamp is useless to us and even if we would "
+"survive the attempt to save that girl, we could never trust her, she is a "
+"dark mage after all! Let's go home."
+msgstr ""
+
+#. [message]: speaker=Margarete
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:255
+msgid ""
+"Thanks for rescuing me, my hero! ... Oh what a handsome man you are ... I "
+"think I fall in love with you. Please, take me with you, I never want to "
+"leave your side --- I will follow your every command. EVERY command!"
+msgstr ""
+
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:259
+msgid ""
+"You are certainly a beautiful woman ... (looks at her) ... you are hurt, "
+"come, rest in my tent until you get better. (Margarete can recruit Dark "
+"Adepts. She will follow you through all townships as long as she is alive - "
+"once she dies, she stays dead.)"
+msgstr ""
+
+#. [message]: speaker=second unit
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:303
+msgid ""
+"What the ...? This is NOT Blue Hanna, it is a doppelganger! (Despite Blue "
+"Hanna eluding capture once again, you at least find 50 gold. Also from the "
+"documents you learn that Blue Hanna and her gang was hired by someone to "
+"abduct Margarete.)"
+msgstr ""
+
+#. [message]: speaker=Gutberg
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:324
+msgid ""
+"Nooo, not like that! After more than 300 years killed by two halfbreeds who "
+"stopped crapping into diapers just yesterday ... oooorrrrghhh ... (While "
+"searching the Hochmeisters keep you find 150 gold! However, due to his death "
+"several magical doors open allowing the escape of evil creatures he had "
+"captured.)"
+msgstr ""
+
+#. [message]: speaker=unit
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:389
+msgid ""
+"IIIIIIIIAAAAAAAAAAAAAAAAHHHHHHH (After the monster has vanished, you find 50 "
+"gold.)"
+msgstr ""
+
+#. [message]: speaker=Sss Uuu
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:410
+msgid ""
+"SSSSssssssss you fools! You should kill that Dark Sorceress, she is "
+"dangerous! (There are 50 goldpieces in the keep of the lizzard.)"
+msgstr ""
+
+#. [message]: speaker=Kunbert
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:431
+msgid ""
+"No, I wanted Margarete for me, now that elven boy gets her! Is there no "
+"justice in this world?"
+msgstr ""
+
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/scenarios/007_Niederdorla_01_initial.cfg:435
+msgid ""
+"I find this outcome very just! ... and even more because we can loot 50 gold "
+"from this dark sorcerer."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:21
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:21
+msgid " ..."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:27
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:27
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:27
+msgid "There is nothing of interest here."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:42
+msgid ""
+"The Feengrotte is a cave, rumor has it that it was once inhabitat by fays."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/008_Feengrotte_01.cfg:48
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:48
+#: County_of_Beichlingen/scenarios/010_Kings_Quest.cfg:44
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:48
+msgid "I don't want to go there now."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:21
+msgid "You already defeated the dragons that infested this cave."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:42
+msgid ""
+"The Drachenhoehle is a natural cave system, the name suggests that there are "
+"dragons there."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:44
+msgid "Alright then, drakes are my favorite enemy!"
+msgstr ""
+
+#. [scenario]: id=009_Drachenhoehle_01_initial_drakes
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:68
+msgid "Cleaning out the Drachenhoehle"
+msgstr ""
+
+#. [side]: type=Drake Enforcer, id=Yaluk
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:114
+msgid "Yaluk"
+msgstr ""
+
+#. [side]: type=Hurricane Drake, id=Zulum
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:128
+msgid "Zulum"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:166
+msgid "GROOOOAAAAAAAARRRRRRR (You find 50 gold in his keep.)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/009_Drachenhoehle_01.cfg:183
+msgid ""
+"Yes, I'm $second_unit.name the dragonslayer! (You find 50 gold in his keep.)"
+msgstr ""
+
+#. [scenario]: id=010_KingsQuest_01_Dalanoede_a_Orcs
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:4
+msgid "Kings Quest - Orcs in the Dalanoede"
+msgstr ""
+
+#. [message]: speaker=Damtul
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:29
+msgid ""
+"The king sends his thanks and gratulations on a succescul battel along with "
+"100 gold."
+msgstr ""
+
+#. [message]: speaker=Damtul
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:108
+msgid "You damned Wesnothians! (You find 50 gold in his keep.)"
+msgstr ""
+
+#. [message]: speaker=Johfur
+#: County_of_Beichlingen/scenarios/010_KingsQuest_01_Dalanoede_a_Orcs.cfg:121
+msgid ""
+"Ha, our women are extremly fertile, there will be more of us soon! (You find "
+"50 gold in his keep.)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/010_Kings_Quest.cfg:21
+msgid "The kings sends a courier to your castle, asking for your help."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/010_Kings_Quest.cfg:23
+msgid "He needs help to repel an invasion of Orcs in the Dalanoede."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/010_Kings_Quest.cfg:27
+msgid ""
+"You imprison the courier in the deepest dungeon - he never reached you, so "
+"you couldn't send your army to the king."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:42
+msgid ""
+"The Windknollen is a stormy plateau high in the mountains, it is notorious "
+"for it's vicious gryphons."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:44
+msgid "Let's make a nice omelett from huge eggs."
+msgstr ""
+
+#. [scenario]: id=011_Windknollen_01_initial, (id=Helene) 1 1}
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:68
+msgid "The gryphons of the Windknollen"
+msgstr ""
+
+#. [scenario]: id=011_Windknollen_01_initial, (id=Helene) 1 1}
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:83
+msgid ""
+" As you enter the Windknollen region, you are warned by peasants that wolves "
+"are common to the woods there. They hide in the underbrush and jump at their "
+"victims without any warning. Look out!"
+msgstr ""
+
+#. [side]: type=Gryphon, id=Krummschnabel
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:117
+msgid "Krummschnabel"
+msgstr ""
+
+#. [side]: type=Gryphon, id=Goldfluegel
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:136
+msgid "Goldfluegel"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:180
+msgid "Grrrrrraaaaaaaaaaaaaahhhhhhhhh!!!!!!! (You get 50 gold)"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:190
+msgid "Yes, now that is what I call a roast chicken! (You get 100 gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:207
+msgid ""
+"Wise dwarves created this magic rune - only those who know the way of the "
+"dwarves can spell the password to the bridge over the chasm. (Don't search "
+"yourself to death here, the anwser can not be found in this township."
+msgstr ""
+
+#. [text_input]
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:210
+msgid "Password:"
+msgstr ""
+
+#. [variable]
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:218
+msgid "chanterelle"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:240
+msgid "Only a leader unit can activate that rune."
+msgstr ""
+
+#. [message]: speaker=unit
+#: County_of_Beichlingen/scenarios/011_Windknollen_01.cfg:256
+msgid "I found 220 gold!"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:4
+msgid "Beichlingen"
+msgstr ""
+
+#. [unit]: type=Seasoned Shaman, id=Helene
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:73
+#: County_of_Beichlingen/utils/ScenarioMechanics.cfg:67
+msgid "Helene"
+msgstr ""
+
+#. [unit]: type=Cadet, id=Thietmar
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:84
+#: County_of_Beichlingen/utils/ScenarioMechanics.cfg:85
+msgid "Thietmar"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:157
+msgid "Conquer all townships in the name of the king of Wesnoth."
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:169
+msgid "Info"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:184
+msgid ""
+"County of Beichlingen (COB) does not follow a linear campaign, but features "
+"an open world concept. There are some scenarios that depend on solving "
+"another first, telling a little sub-story, but if you don't want that you "
+"can go with the 'simple' battle scenarios without any requirements. The two "
+"main ideas behind COB were\n"
+"- To break the linear story-telling which forces you to win 10 scenarios in "
+"order to be able to play scenario number 11.\n"
+"- To be able to do random battles like in the local-game-option in "
+"multiplayer, but still be able to recall veteran units. So it is useful to "
+"level units up even if you only do random battles outside a storyline.\n"
+"\n"
+"Important notes:\n"
+"1. You can not lose nor win this campaign. You can win or lose individual "
+"scenarios, but the two main characters Helene and Thietmar always survive to "
+"fight another day and there will be never an 'all done'-situation. Also, on "
+"this map you are save, no enemy will ever appear, so there is no need to "
+"call in units.\n"
+"\n"
+"2. You can try a lost scenario any number of times. You can replay some of "
+"the scenarios you already beat, other scenarios make way for new ones after "
+"you win them.\n"
+"\n"
+"3. The scenarios feature adaptive difficulty - if you start with lots of "
+"gold, the enemy will have lots of gold. If you are poor, the enemy is poor "
+"too. If you field veteran units, the enemy will get access to veteran units "
+"too. Usually, if you get a gold bonus, the enemy gets one too. This means "
+"the scenarios are always fair and always challenging! Many scenarios also "
+"feature random elements. So there is a high replay value.\n"
+"\n"
+"4. Move Helene or Thietmar to the marked tiles and chose what you wanna do. "
+"There is always an option to do nothing - so there is no harm in trying a "
+"new tile. <span font_size='larger'>Please read the textmessages that pop up "
+"during the game carefully, they are often important - I promise I keep them "
+"short and there will be no more than a maximum of three messages in a row. </"
+"span> Longer texts are optional like this one and not essential to winning "
+"the scenarios."
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:201
+msgid ""
+"Any feedback is welcome, go to the County of Beichlingen thread in the "
+"Wesnoth-Forums http://forums.wesnoth.org/viewtopic.php?f=8&t=36597 \n"
+"Please tell me what you liked and didn't liked, what you want more or less "
+"off.\n"
+"\n"
+"Contributors are also welcome! Do you have maps, units, scenarios, items, "
+"music, ideas or whatever, please go the thread in the Wesnoth forum and tell "
+"me.\n"
+"\n"
+"Version: 0.6.1 Tested on Wesnoth 1.10.1.\n"
+"<span font_size='larger'>This is a development version! Bugs are to be "
+"expected and especially the balancing of the difficulty maybe off. If you "
+"encounter too hard or too easy scenarios, please go to the forumthread and "
+"tell about it. </span>"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:213
+msgid ""
+"Credits:\n"
+"\n"
+"Thanks to Zebulon for his 'human-village_188_by_zebulon.png' - http://wiki."
+"wesnoth.org/Contrib:Zebulon\n"
+"\n"
+"All other non standard stuff like maps, scenarios and extra units etc. "
+"created by me, Palatin.\n"
+"\n"
+"Thanks to the Battle for Wesnoth Team, it is an amazing game!\n"
+"\n"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:228
+msgid "Statistic"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:249
+msgid ""
+"Victories: $Info[1].victories\n"
+"Defeats: $Info[1].defeats\n"
+"Victory-Ratio: $Info[1].victories from $temp_battles = $temp_ratio%"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:268
+msgid ""
+"This is an experimental part! The idea is that enemy forces conquer some "
+"Townships so that there is a reason for more scenarios against new enemies. "
+"Later this will be implemented as random or event driven extra stuff. In "
+"this one a Lich will conquer Suhl and Zella."
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:270
+msgid "OK, I try it."
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:290
+msgid "Hahaha, Suhl and Zella are under my reign now, you stupid halfbreeds!"
+msgstr ""
+
+#: County_of_Beichlingen/scenarios/Beichlingen.cfg:294
+msgid "I wait till this is implemented."
+msgstr ""
+
+#. [unit_type]: id=Cadet
+#: County_of_Beichlingen/units/Cadet.cfg:8
+msgid "Cadet"
+msgstr ""
+
+#. [unit_type]: id=Cadet
+#: County_of_Beichlingen/units/Cadet.cfg:17
+msgid ""
+"Being a cadet requires the study of basic medicine to be able to give first "
+"aid to wounded warriors. "
+msgstr ""
+
+#. [unit_type]: id=Colonel
+#: County_of_Beichlingen/units/Colonel.cfg:8
+msgid "Colonel"
+msgstr ""
+
+#. [unit_type]: id=Colonel
+#: County_of_Beichlingen/units/Colonel.cfg:17
+msgid ""
+"A Colonel has to be able to lead his men but also to given them basic aid."
+msgstr ""
+
+#. [unit_type]: id=Druidic Sylph
+#: County_of_Beichlingen/units/Druidic_Sylph.cfg:8
+msgid "Druidic Sylph"
+msgstr ""
+
+#. [unit_type]: id=Druidic Sylph
+#: County_of_Beichlingen/units/Druidic_Sylph.cfg:16
+msgid ""
+"Only the most sensible and smart sylphs can also master the secrets of life."
+msgstr ""
+
+#. [unit_type]: id=First Lieutenant
+#: County_of_Beichlingen/units/First_Lieutenant.cfg:8
+msgid "First Lieutenant"
+msgstr ""
+
+#. [unit_type]: id=First Lieutenant
+#: County_of_Beichlingen/units/First_Lieutenant.cfg:18
+msgid ""
+"A First Lieutenant has to be able to lead his men but also to give them "
+"basic aid."
+msgstr ""
+
+#. [unit_type]: id=Giant Slow Spider
+#: County_of_Beichlingen/units/Giant_Slow_Spider.cfg:8
+msgid "Giant Slow Spider"
+msgstr ""
+
+#. [unit_type]: id=Giant Slow Spider
+#: County_of_Beichlingen/units/Giant_Slow_Spider.cfg:10
+msgid "Those spiders are so large, they can't move very fast."
+msgstr ""
+
+#. [unit_type]: id=Major General
+#: County_of_Beichlingen/units/Major_General.cfg:8
+msgid "Major General"
+msgstr ""
+
+#. [unit_type]: id=Major General
+#: County_of_Beichlingen/units/Major_General.cfg:16
+msgid ""
+"A Major General has to be able to lead his men but also give them basic aid."
+msgstr ""
+
+#. [unit_type]: id=Seasoned Shaman
+#: County_of_Beichlingen/units/Seasoned_Shaman.cfg:8
+msgid "Seasoned Shaman"
+msgstr ""
+
+#. [unit_type]: id=Seasoned Shaman
+#: County_of_Beichlingen/units/Seasoned_Shaman.cfg:17
+msgid ""
+"An otherwise normal elvish shaman who has gained a little more experience."
+msgstr ""
+
+#. [unit_type]: id=Young Gryphon
+#: County_of_Beichlingen/units/Small_Gryphon.cfg:8
+msgid "Young Gryphon"
+msgstr ""
+
+#. [unit_type]: id=Young Gryphon
+#: County_of_Beichlingen/units/Small_Gryphon.cfg:17
+msgid "A young gryphon."
+msgstr ""
+
+#. [unit_type]: id=Smart Sorceress
+#: County_of_Beichlingen/units/Smart_Sorceress.cfg:8
+msgid "Smart Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Smart Sorceress
+#: County_of_Beichlingen/units/Smart_Sorceress.cfg:17
+msgid ""
+"This kind of elvish sorceress knows also about the healing powers that "
+"normally only her druid sisters posses."
+msgstr ""
+
+#. [unit_type]: id=Wise Enchantress
+#: County_of_Beichlingen/units/Wise_Enchantress.cfg:8
+msgid "Wise Enchantress"
+msgstr ""
+
+#. [unit_type]: id=Wise Enchantress
+#: County_of_Beichlingen/units/Wise_Enchantress.cfg:17
+msgid ""
+"A wise enchantress is able to cure and heal other units just like a druid."
+msgstr ""
+
+#. [unit_type]: id=Wolf Whelp
+#: County_of_Beichlingen/units/Wolf_Whelp.cfg:8
+msgid "Wolf Whelp"
+msgstr ""
+
+#. [unit_type]: id=Wolf Whelp
+#: County_of_Beichlingen/units/Wolf_Whelp.cfg:11
+msgid "A young wolf taking from it's pack to be raised by humans."
+msgstr ""
+
+#. [unit_type]: id=Trained Wolf
+#: County_of_Beichlingen/units/Wolf_Whelp.cfg:19
+msgid "Trained Wolf"
+msgstr ""
+
+#. [unit_type]: id=Trained Wolf
+#: County_of_Beichlingen/units/Wolf_Whelp.cfg:22
+msgid "A wolf that has been been trained by humans to fight."
+msgstr ""
+
+#. [unit_type]: id=Attack Wolf
+#: County_of_Beichlingen/units/Wolf_Whelp.cfg:30
+msgid "Attack Wolf"
+msgstr ""
+
+#. [unit_type]: id=Attack Wolf
+#: County_of_Beichlingen/units/Wolf_Whelp.cfg:32
+msgid ""
+"A wolf that has been been turned into an instrument of war by human hands."
+msgstr ""
+
+#. [message]: speaker=unit
+#: County_of_Beichlingen/utils/ScenarioMechanics.cfg:138
+msgid "The enemy is to strong for us, retreat to the castle!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: County_of_Beichlingen/utils/ScenarioMechanics.cfg:164
+msgid ""
+"Well, I'm glad to have shared some of my time with you. Please avenge my "
+"death!"
+msgstr ""
+
+#. [event]
+#: County_of_Beichlingen/utils/ScenarioMechanics.cfg:185
+msgid ""
+"You lose all units that are on the map except for living leaders, who lose "
+"the advances they made in this scenario. If Thietmar or Helene have been "
+"killed, they will start again as level 1. You keep units that are currently "
+"on the recalllist. Your gold will be set back to the amount you started this "
+"scenario with."
+msgstr ""
+
+#. [message]: speaker=Thietmar
+#: County_of_Beichlingen/utils/random_enemy_scenario.cfg:81
+msgid "We did it! ... and we found 100 gold!"
+msgstr ""
