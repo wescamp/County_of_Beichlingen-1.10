@@ -9,6 +9,18 @@ Date: YYYY-MM-DD
 
 -------------------------------------------------
 
+Version: 0.6.3
+Date: 2012-06-23
+	Bugfixes:
+		- set statistic event in Beichlingen to first_time_only=no
+		- removed space from “Wise_Enchantress.cfg” for translation
+	Changes:
+		- 
+	Additions:
+		- first version of Beichlingen coat of arms - little 72x72 (for items on map) and bigger 128x128 (for messages)
+
+-------------------------------------------------
+
 Version: 0.6.2
 Date: 2012-06-17
 	Bugfixes:
